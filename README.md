@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tasneeem1
-- 👀 I’m interested in C/Python/Java script
+- 👀 I’m interested in C/Python/Java/Java script
 - 🌱 I’m currently learning C/C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
